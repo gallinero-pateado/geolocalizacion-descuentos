@@ -1,0 +1,38 @@
+{
+    "usuario": {
+        "latitude": -33.4489,
+        "longitude": -70.6693
+    },
+    "productos": [
+        {
+            "id": 1,
+            "titulo": "Descuento en Pizza",
+            "descripcion": "50% de descuento en pizzas grandes",
+            "precio": 10000,
+            "precio_anterior": 20000,
+            "descuento": 50,
+            "latitude": -33.4451,
+            "longitude": -70.6483
+        },
+        {
+            "id": 2,
+            "titulo": "Descuento en Sushi",
+            "descripcion": "20% de descuento en sushi",
+            "precio": 8000,
+            "precio_anterior": 10000,
+            "descuento": 20,
+            "latitude": -33.4579,
+            "longitude": -70.6460
+        },
+        {
+            "id": 3,
+            "titulo": "Descuento en hamburguesas",
+            "descripcion": "20% de descuento en hamburguesas",
+            "precio": 8000,
+            "precio_anterior": 10000,
+            "descuento": 20,
+            "latitude": -50.4579,
+            "longitude": -90.6460
+        }
+    ]
+}
